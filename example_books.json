@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "coverUrl": "https://m.media-amazon.com/images/I/91l1EHFs8dL.jpg",
+    "synopsys": "Grown-up Meg, tomboyish Jo, timid Beth, and precocious Amy. The four March sisters couldn't be more different. But with their father away at war, and their mother working to support the family, they have to rely on one another. Whether they're putting on a play, forming a secret society, or celebrating Christmas, there's one thing they can't help wondering: Will Father return home safely?",
+    "isbn": "978-0147514011",
+    "publisher": "Puffin Books",
+    "paperback": 777,
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "coverUrl": "https://m.media-amazon.com/images/I/71OFqSRFDgL.jpg",
+    "synopsys": "Enter a dystopian future where books with ideas are dangerous, controlled and burned.",
+    "isbn": "978-1451673319",
+    "publisher": "Simon & Schuster",
+    "paperback": 159,
+    "color": "red"
+  },
+  {
+    "id": 3,
+    "title": "Grapes of Wrath",
+    "author": "John Steinbeck",
+    "coverUrl": "https://m.media-amazon.com/images/I/91X3fr1G5eL.jpg",
+    "synopsys": "Thousands set out from the dust bowl to California in search of better fortunes",
+    "isbn": "978-0241952474",
+    "publisher": "Penguin",
+    "paperback": 544,
+    "color": "umber"
+  },
+  {
+    "id": 4,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "coverUrl": "https://m.media-amazon.com/images/I/71FxgtFKcQL.jpg",
+    "synopsys": "A girl learns to trust the wisdom of her father and not be dismayed by the prejudice around here.",
+    "isbn": "978-0446310789",
+    "publisher": "Grand Central Publishing",
+    "paperback": 288,
+    "color": "orange"
+  },
+  {
+    "id": 5,
+    "title": "Moby Dick",
+    "author": "Hermann Melville",
+    "coverUrl": "https://imusic.b-cdn.net/images/item/original/954/9780143105954.jpg?herman-melville-2010-moby-dick-or-the-whale-paperback-book&class=scaled",
+    "synopsys": "A man hunts a whale for vengeance. In the end, he's the last man standing. I guess he won.",
+    "isbn": "978-0143105954",
+    "publisher": "Penguin",
+    "paperback": 672,
+    "color": "blue"
+  },
+  {
+    "id": 6,
+    "title": "The Library Book",
+    "author": "Susan Orlean",
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/I/51pmJwGu0bL._SX340_BO1,204,203,200_.jpg",
+    "synopsys": "The bestselling author of Rin Tin Tin and The Orchid Thief reopens the unsolved mystery of one of the most catastrophic library fires in history and delivers a dazzling love letter to a beloved institution - our libraries.",
+    "isbn": "978-1782392255",
+    "publisher": "Atlantic Books",
+    "paperback": 336,
+    "color": "red"
+  },
+  {
+    "id": 7,
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "coverUrl": "https://m.media-amazon.com/images/P/0063270889.01._SCLZZZZZZZ_SX500_.jpg",
+    "synopsys": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them. In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+    "isbn": "978-0063270886",
+    "publisher": "William Morrow Paperbacks",
+    "paperback": 432,
+    "color": "umber"
+  },
+  {
+    "id": 8,
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "coverUrl": "https://m.media-amazon.com/images/I/71f6DRbcrsL.jpg",
+    "synopsys": "Set in the deep American South between the wars, THE COLOR PURPLE is the classic tale of Celie, a young black girl born into poverty and segregation. Raped repeatedly by the man she calls 'father', she has two children taken away from her, is separated from her beloved sister Nettie and is trapped into an ugly marriage. But then she meets the glamorous Shug Avery, singer and magic-maker - a woman who has taken charge of her own destiny. Gradually Celie discovers the power and joy of her own spirit, freeing her from her past and reuniting her with those she loves.",
+    "isbn": "978-1780228716",
+    "publisher": "W&N",
+    "paperback": 288,
+    "color": "purple"
+  },
+  {
+    "id": 9,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "coverUrl": "https://m.media-amazon.com/images/I/41xShlnTZTL.jpg",
+    "synopsys": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. Noted software expert Robert C. Martin presents a revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship. Martin has teamed up with his colleagues from Object Mentor to distill their best agile practice of cleaning code “on the fly” into a book that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it. What kind of work will you be doing? You'll be reading code—lots of code. And you will be challenged to think about what's right about that code, and what's wrong with it. More importantly, you will be challenged to reassess your professional values and your commitment to your craft.",
+    "isbn": "978-0132350884",
+    "publisher": "Prentice Hall PTR",
+    "paperback": 431,
+    "color": "blue"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "coverUrl": "https://m.media-amazon.com/images/I/91l1EHFs8dL.jpg",
+    "synopsys": "Grown-up Meg, tomboyish Jo, timid Beth, and precocious Amy. The four March sisters couldn't be more different. But with their father away at war, and their mother working to support the family, they have to rely on one another. Whether they're putting on a play, forming a secret society, or celebrating Christmas, there's one thing they can't help wondering: Will Father return home safely?",
+    "isbn": "978-0147514011",
+    "publisher": "Puffin Books",
+    "paperback": 777,
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "coverUrl": "https://m.media-amazon.com/images/I/71OFqSRFDgL.jpg",
+    "synopsys": "Enter a dystopian future where books with ideas are dangerous, controlled and burned.",
+    "isbn": "978-1451673319",
+    "publisher": "Simon & Schuster",
+    "paperback": 159,
+    "color": "red"
+  }
+]

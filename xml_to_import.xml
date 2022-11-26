@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<book>
+		<title>Little%20Women</title>
+		<author>Louisa%20May%20Alcott</author>
+		<isbn>978-0147514011</isbn>
+		<publisher>Puffin%20Books</publisher>
+		<paperback>777</paperback>
+		<coverUrl>https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F91l1EHFs8dL.jpg</coverUrl>
+		<synopsys>Grown-up%20Meg%2C%20tomboyish%20Jo%2C%20timid%20Beth%2C%20and%20precocious%20Amy.%20The%20four%20March%20sisters%20couldn't%20be%20more%20different.%20But%20with%20their%20father%20away%20at%20war%2C%20and%20their%20mother%20working%20to%20support%20the%20family%2C%20they%20have%20to%20rely%20on%20one%20another.%20Whether%20they're%20putting%20on%20a%20play%2C%20forming%20a%20secret%20society%2C%20or%20celebrating%20Christmas%2C%20there's%20one%20thing%20they%20can't%20help%20wondering%3A%20Will%20Father%20return%20home%20safely%3F</synopsys>
+	</book>
+	<book>
+		<title>Fahrenheit%20451</title>
+		<author>Ray%20Bradbury</author>
+		<isbn>978-1451673319</isbn>
+		<publisher>Simon%20%26%20Schuster</publisher>
+		<paperback>159</paperback>
+		<coverUrl>https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71OFqSRFDgL.jpg</coverUrl>
+		<synopsys>Enter%20a%20dystopian%20future%20where%20books%20with%20ideas%20are%20dangerous%2C%20controlled%20and%20burned.</synopsys>
+	</book>
+</catalog>
